@@ -10,7 +10,7 @@ The health scientists are challenging to find the relationship between cigarette
 
 ## Repository Navigation
 <pre>
-Code               : <a href=https://github.com/a-woodbury/A-House-with-a-View/blob/master/Notebooks/JM_modelling.ipynb>Modeling Notebook </a>
+Code               : <a href=https://github.com/Naidanzheng/DATA-602-Homework-1/blob/master/Homework%20one.ipynb>Modeling Notebook </a>
 Presentation       : <a href=https://github.com/Naidanzheng/DATA-602-Homework-1/blob/master/Presentation.pptx>Slide Deck</a>
 </pre>
 
