@@ -27,7 +27,7 @@ Therefore, as more cigarettes are smoked, the birth weight of the baby decreases
 To diagnose a linear model.
 ![predicted.png](https://github.com/Naidanzheng/DATA-602-Homework-1/blob/master/predicted.png)
 
-From the graph, the residual plotsIt is a good model when it only used to find the relationship between birth weight and cigarettes.
+From the graph, the residual plot is a good model when it only used to find the relationship between birth weight and cigarettes.
 
 To find the other determinations of child's birth weight rate. 
 ![coefficient.png](https://github.com/Naidanzheng/DATA-602-Homework-1/blob/master/coefficient.png)
