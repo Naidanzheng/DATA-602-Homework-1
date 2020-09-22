@@ -18,3 +18,8 @@ The data set bwght.csv contains data on births to women in the United States. Tw
 Based on the question, I used the simple linear regression model: f(x)= beta0+beta1x. It is a statistical method that allows us to summarize and study relationships between two continuous (quantitative) variables:independent variable(x) and dependent variable(y).
 
 ![cigs.png](https://github.com/Naidanzheng/DATA-602-Homework-1/blob/master/cigs.png)
+
+The line on the line graph moves from left to right, the line falls, which means the graph shows that cigarettes and birth weight have negative linear relationship.
+
+After calculating the coefficient parameter, the simple linear regression model: bwght=120.2964-0.5758cigs, where n=1192,R^2=0.025.
+Therfore, as more cigarettes are smoked, the birth weight of the baby decreases at the rate of 0.5758 ounce for every additional cigarette smoked per day.
