@@ -8,6 +8,12 @@
 ## Overview
 The health scientists are challenging to find the relationship between cigarettes and child's birth weight. We used the data on births to women in the United States to see how cigarettes would affect child's birth weight, and what the determinations of child's birth weight are.
 
+## Repository Navigation
+<pre>
+Code               : <a href=https://github.com/a-woodbury/A-House-with-a-View/blob/master/Notebooks/JM_modelling.ipynb>Modeling Notebook </a>
+Presentation       : <a href=https://github.com/a-woodbury/A-House-with-a-View/blob/master/Presentation/kch_presentation.pdf>Slide Deck</a>
+</pre>
+
 ## ReadME Navigation
 [Data](https://github.com/Naidanzheng/DATA-602-Homework-1#data) -
 [Model](https://github.com/Naidanzheng/DATA-602-Homework-1#model) -
@@ -44,7 +50,7 @@ To find the other determinations of child's birth weight rate.
 The graph shows the correlation between features.          
 The simple regression from question 1 does not complete explain the causal relationship, because it doesn't analyze other factors which might affect child's birth weight. Child's birth weights affects by the factors such as family income, birth order of the child, race, gender, and parent's education.
 Therefore, it is more accurate to predict child's birth weights by using these factors.
-The multiple linear regression model: bwght=-377.4788+-2.033e+6cigs+103.7763lbwght+  ... + 4.065e+07packs + 0.0078cigprice,n=1192, R^2=0.954.
+The multiple linear regression model: bwght=-363.8539-3.906e+6cigs+101.4512lbwght+ ... + 7.813e+07packs - 0.0223cigprice,n=1192, R^2=0.947. 
 This model is more accurate than the simple linear regression model.
 
 
