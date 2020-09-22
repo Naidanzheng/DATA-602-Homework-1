@@ -37,3 +37,11 @@ The simple regression from question 1 does not complete explain the causal relat
 Therefore, it is more accurate to predict child's birth weights by using these factors.
 The multiple linear regression model: bwght=-377.4788+-2.033e+6cigs+103.7763lbwght+  ... + 4.065e+07packs + 0.0078cigprice,n=1192, R^2=0.954.
 This model is more accurate than the simple linear regression model.
+
+
+## Conclusion
+The mother smoking definitely affect child's birth weight, but it is not the only factor. 
+The multiple linear regression model will help health scientists to analyze child's birth weight, 
+
+## Future
+To get more accurate results, we'd like to have more addtional data, such as the effect of father smoking on children, 
