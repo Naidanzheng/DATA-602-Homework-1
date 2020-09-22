@@ -40,8 +40,13 @@ This model is more accurate than the simple linear regression model.
 
 
 ## Conclusion
-The mother smoking definitely affect child's birth weight, but it is not the only factor. 
-The multiple linear regression model will help health scientists to analyze child's birth weight, 
+Mother smoking definitely affects child's birth weight, but it is not the only factor. It is necessary to consider more determinations which will help us to get more accurate data. The multiple linear regression model will help health scientists to analyze child's birth weight, 
 
 ## Future
-To get more accurate results, we'd like to have more addtional data, such as the effect of father smoking on children, 
+To get more accurate results, we'd like to have more addtional data, such as the effect of father smoking on children, mother's weight and mother's height.
+
+---
+
+## Resource
+bwght.cvs
+- [website](https://www.stata.com/texts/eacsap/)
