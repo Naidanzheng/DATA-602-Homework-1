@@ -23,3 +23,17 @@ The line on the line graph moves from left to right, the line falls, which means
 
 After calculating the coefficient parameter, the simple linear regression model: bwght=120.2964-0.5758cigs, where n=1192,R^2=0.025.
 Therfore, as more cigarettes are smoked, the birth weight of the baby decreases at the rate of 0.5758 ounce for every additional cigarette smoked per day.
+
+To diagnose a linear model.
+![predicted.png](https://github.com/Naidanzheng/DATA-602-Homework-1/blob/master/predicted.png)
+
+From the graph, the residual plotsIt is a good model when it only used to find the relationship between birth weight and cigarettes.
+
+To find the other determinations of child's birth weight rate. 
+![coefficient.png](https://github.com/Naidanzheng/DATA-602-Homework-1/blob/master/coefficient.png)
+
+The graph shows the correlation between features.          
+The simple regression from question 1 does not complete explain the causal relationship, because it doesn't analyze other factors which might affect child's birth weight. Child's birth weights affects by the factors such as family income, birth order of the child, race, gender, and parent's education.
+Therefore, it is more accurate to predict child's birth weights by using these factors.
+The multiple linear regression model: bwght=-377.4788+-2.033e+6cigs+103.7763lbwght+  ... + 4.065e+07packs + 0.0078cigprice,n=1192, R^2=0.954.
+This model is more accurate than the simple linear regression model.
